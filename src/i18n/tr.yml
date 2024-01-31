@@ -1,0 +1,33 @@
+buttons:
+  cancel:
+    emoji: ✖️
+    text: İptal Et
+  close:
+    emoji: ✖️
+    text: Kapat
+  accept_close_request:
+    emoji: ✅
+    text: Kabul Et
+  create:
+    emoji: 🎫
+  edit:
+    emoji: ✏️
+    text: Düzenle
+  claim:
+    emoji: 🙌
+    text: Devral
+  confirm_open:
+    emoji: ✅
+    text: Talep Oluştur
+  reject_close_request:
+    text: Reddet
+    emoji: ✖️
+  unclaim:
+    emoji: ♻️
+commands:
+  message:
+    pin:
+      not_pinnable:
+        title: ❌ Hata
+      pinned:
+        description: Mesaj sabitlendi.
